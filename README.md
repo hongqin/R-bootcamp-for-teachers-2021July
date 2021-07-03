@@ -8,17 +8,11 @@ A year with COVID 19, Dr. Jeticia Sistrunk. https://youtu.be/Pik30ECC5XE
 Epidemiological modeling for COVID 19. Dr. Metewab Ayalew. https://youtu.be/4fxsjycTIlo 
 
 # Bootcamp Schedule
-July  Basics coding of R.  Dr. Hong Qin. https://youtu.be/iFCQ6plYBCA 
+July 6, morning: <br> 
+  Basics coding of R.   https://youtu.be/iFCQ6plYBCA <br> 
 
-Dec 20, 2020
-1:30pm. Analyze a county-level COVID-19 dataset. Dr. Hong Qin. https://youtu.be/zgKd4Fwb5b0 
+July 6, afternoon: <br> 
+  Analyze a county-level COVID-19 dataset.  https://youtu.be/zgKd4Fwb5b0 <br> 
 
-Dec 21, 2020
-1:30pm Student work on his/her own project, write report
-
-Dec 22, 2020
-1:30pm, Student work on his/her own project, write report, generate a video
-
-Dec 23, 2020
-1:30pm,  Revise report
-
+July 7, morning: <br> 
+  Analyze 2020 election results, and draft essay on teaching data science at K12 levels <br> 
