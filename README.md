@@ -19,5 +19,5 @@ July 6, afternoon: <br>
   Analyze a county-level COVID-19 dataset.  https://youtu.be/zgKd4Fwb5b0 <br> 
 
 July 7, morning: <br> 
-  [sign-in for day 2 morning](https://forms.gle/JCCV5YU1qQsZy4tz9)<br> 
+  [sign-in for day 2 morning](https://forms.gle/Sc3sC4kjGtMxfqj17)<br> 
   Analyze 2020 election results, and draft essay on teaching data science at K12 levels <br> 
