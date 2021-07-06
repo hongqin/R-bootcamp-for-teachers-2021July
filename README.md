@@ -10,14 +10,14 @@ Epidemiological modeling for COVID 19. Dr. Metewab Ayalew. https://youtu.be/4fxs
 # Bootcamp Schedule
   
 July 6, morning: <br> 
- sign-in <br> 
+ [sign-in for day 1 morning](https://forms.gle/WKc8rS2H7jmk2LT79) <br> 
  10am-noon Basics coding of R.   https://youtu.be/iFCQ6plYBCA <br> 
  Group-photo.
 
 July 6, afternoon: <br> 
-  sign-in <br>
+  [sign-in for day 1 afternoon](https://forms.gle/gP9zSU6MhhDHNxp29) <br>
   Analyze a county-level COVID-19 dataset.  https://youtu.be/zgKd4Fwb5b0 <br> 
 
 July 7, morning: <br> 
-  sign-in <br> 
+  [sign-in for day 2 morning](https://forms.gle/JCCV5YU1qQsZy4tz9)<br> 
   Analyze 2020 election results, and draft essay on teaching data science at K12 levels <br> 
