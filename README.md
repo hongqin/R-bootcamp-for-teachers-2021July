@@ -11,6 +11,7 @@ Epidemiological modeling for COVID 19. Dr. Metewab Ayalew. https://youtu.be/4fxs
   
 July 6, morning: <br> 
  [sign-in for day 1 morning](https://forms.gle/WKc8rS2H7jmk2LT79) <br> 
+ Ask TAs to add "TA" in their ZOOM account <br> 
  10am-noon [Basics coding of R](https://github.com/hongqin/R-bootcamp-for-teachers-2021July/blob/main/R_covid19_teacher_bootcamp20210706.ipynb).   [ Video](https://youtu.be/iFCQ6plYBCA) <br> 
  Group-photo.
 
