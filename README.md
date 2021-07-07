@@ -22,3 +22,7 @@ July 6, afternoon: <br>
 July 7, morning: <br> 
   [sign-in for day 2 morning](https://forms.gle/Sc3sC4kjGtMxfqj17)<br> 
   [Analyze 2020 election results](https://github.com/hongqin/R-bootcamp-for-teachers-2021July/blob/main/simple_stat_election20.ipynb), and draft essay on teaching data science at K12 levels <br> 
+
+ 
+  
+  # [Submission of Written Essay or Lesson Plan](https://forms.gle/Gizi4c6wURvVAuSB7) . Only PDF files will be accepted. 
