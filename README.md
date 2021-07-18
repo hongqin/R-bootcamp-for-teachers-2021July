@@ -18,10 +18,12 @@ July 6, morning: <br>
 July 6, afternoon: <br> 
   [sign-in for day 1 afternoon](https://forms.gle/gP9zSU6MhhDHNxp29) <br>
   Analyze a county-level COVID-19 dataset. [Video](https://youtu.be/zgKd4Fwb5b0) <br> 
-
+  [Analyze 2020 election results](https://github.com/hongqin/R-bootcamp-for-teachers-2021July/blob/main/simple_stat_election20.ipynb)
+  
 July 7, morning: <br> 
   [sign-in for day 2 morning](https://forms.gle/Sc3sC4kjGtMxfqj17)<br> 
-  [Analyze 2020 election results](https://github.com/hongqin/R-bootcamp-for-teachers-2021July/blob/main/simple_stat_election20.ipynb), and draft essay on teaching data science at K12 levels <br> 
+   Draft Chattanooga weather collection R code. <br> 
+   Draft essay on teaching data science at K12 levels <br> 
 
  
   
